@@ -1,0 +1,13 @@
+# GHC build files
+*.hi
+*.o
+*.exe
+projecto
+
+# Archives
+*.zip
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
