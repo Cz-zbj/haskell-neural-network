@@ -2,7 +2,7 @@
 
 A small neural network library written from scratch in **pure functional Haskell**, with no machine learning libraries. It is trained with backpropagation to learn the **XOR** function.
 
-Group project for the course *Princípios de Programação* (BSc in Computer Engineering, Faculdade de Ciências da Universidade de Lisboa, 2025/2026).
+Group project for the course *Programação Funcional* (BSc in Computer Engineering, Faculdade de Ciências da Universidade de Lisboa, 2025/2026).
 
 ---
 
